@@ -84,7 +84,10 @@ dependencies {
     //Arch Comp
     testImplementation(libs.androidx.core.testing)
 
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    //Espresso for RecyclerView
+    androidTestImplementation( libs.androidx.espresso.contrib)
 }
