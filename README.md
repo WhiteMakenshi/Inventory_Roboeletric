@@ -1,3 +1,6 @@
+<img width="320" height="714" alt="Screenshot_20260209_175925" src="https://github.com/user-attachments/assets/955b1310-d0ee-40c7-968c-316db005cdaa" />
+
+
 # Inventory App
 
 Inventory App es una aplicación de Android desarrollada en Kotlin que te permite gestionar un inventario de productos. La aplicación cuenta con las siguientes características:
